@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-oda-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-oda-app/static/js/main.698b6143.chunk.js",
+    "main.js.map": "/react-oda-app/static/js/main.698b6143.chunk.js.map",
+    "runtime-main.js": "/react-oda-app/static/js/runtime-main.b4145a02.js",
+    "runtime-main.js.map": "/react-oda-app/static/js/runtime-main.b4145a02.js.map",
+    "static/js/2.910eb6d6.chunk.js": "/react-oda-app/static/js/2.910eb6d6.chunk.js",
+    "static/js/2.910eb6d6.chunk.js.map": "/react-oda-app/static/js/2.910eb6d6.chunk.js.map",
+    "static/js/3.705cb397.chunk.js": "/react-oda-app/static/js/3.705cb397.chunk.js",
+    "static/js/3.705cb397.chunk.js.map": "/react-oda-app/static/js/3.705cb397.chunk.js.map",
+    "index.html": "/react-oda-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-oda-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.910eb6d6.chunk.js.LICENSE.txt": "/react-oda-app/static/js/2.910eb6d6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-oda-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4145a02.js",
+    "static/js/2.910eb6d6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.698b6143.chunk.js"
+  ]
+}
